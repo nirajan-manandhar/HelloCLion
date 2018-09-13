@@ -3,4 +3,4 @@ project(HellloCLion)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HellloCLion main.cpp)
+add_executable(HellloCLion main.cpp gcd.hpp)
